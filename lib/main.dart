@@ -26,7 +26,7 @@ class TeamDeviceHomePage extends StatelessWidget {
 
   static const String groupName = '第三组 创新实验团队';
   static const String projectTitle = '第三组 Flutter Android 真机验收看板';
-  static const String projectSlogan = '第三组用 GitHub 协作，把第14周个人 Hello World 升级成小组真机运行成果';
+  static const String projectSlogan = '团队 Fork 协作，真机运行，展示第15周创新实验小组成果';
 
   static const List<TeamMember> members = [
     TeamMember(role: '组长', name: '请填写组长姓名', task: '创建原始仓库、维护 main、审核 PR、组织真机运行与证据提交'),
